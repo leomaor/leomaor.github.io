@@ -38,6 +38,10 @@ Categories:
 [<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416181819i/5299445.jpg" height=130 width=100>](https://cloudflare-ipfs.com/ipfs/bafykbzacebzqmupawkyxufi3m4lvn3oa2tthmzgnab6jvhu45wgi2yi66fbka?filename=Yanofsky%20Quantum%20Comp.pdf)
 [<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390170172i/18781405.jpg" height=130 width=100>](https://cloudflare-ipfs.com/ipfs/bafykbzacebyakf67srvcqxh2ne5ns3z5cjay4xcz3gclpgkk2mag3nj6yjakk?filename=Lancaster%20Quantum%20Gift.pdf)
 
+##### Dynamical Systems
+
+[<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1409594620i/16763057.jpg" height=120 >](https://cloudflare-ipfs.com/ipfs/bafykbzacecmzemisr3iwripnlprw3b6n2tsem54oixgi6zy3pvptadlvcen7m?filename=Jones%20Math%20Bio.pdf)
+
 #### <span id=Occult>神秘🔮Occult</span>
 
 #### <span id=Manga>漫画🎎Manga</span>
