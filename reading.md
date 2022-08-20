@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books Read(ing) List
+title: Reading List
 permalink: /reading/
 ---
 🚧under construction🚧
