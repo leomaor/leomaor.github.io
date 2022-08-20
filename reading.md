@@ -21,7 +21,7 @@ permalink: /reading/
 
 ### [see more ](leomaor.github.io/occult)
 
-### 漫画　Manga
+### 漫画　RAW Manga
 <ruby>[<img src="https://m.media-amazon.com/images/I/914-pZTMQRL._AC_SY879_.jpg" height=100 ><br>呪術廻戦](https://mangaraw.co/呪術廻戦-raw-free1/)</ruby>
 <ruby>[<img src="https://upload.wikimedia.org/wikipedia/pt/4/45/Berserk_vol01.jpg" height=100 ><br>ベルセルク](https://mangaraw.co/ベルセルク-raw-free/)</ruby>
 <ruby>[<img src="https://images-na.ssl-images-amazon.com/images/I/917WFqQD1mL.jpg" height=100 ><br>ジョジョ](https://mangaraw.co/ジョジョの奇妙な冒険-part-07-steel-ball-run-raw-free/)</ruby>
