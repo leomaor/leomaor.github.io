@@ -13,7 +13,7 @@ permalink: /reading/
   
 ### 
 
-### 秘学　Occult [>> see more <<]([https://leomaor.github.io/math](https://leomaor.github.io/occult))
+### 秘学　Occult [>> see more <<]([https://leomaor.github.io/math](https://leomaor.github.io/occult)
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51cVf4y0L-L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height=100 >](http://library.lol/main/A9FF59B4AB929CCCFBBE130C7E3CD8CE)
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51eC7EQq+sL._SX329_BO1,204,203,200_.jpg" height=100 >](https://libgen.is/book/index.php?md5=EA2B0638F4D4B89DC25FE766E0E3E5AE)
