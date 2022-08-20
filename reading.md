@@ -26,6 +26,8 @@ permalink: /reading/
 <ruby>[<img src="https://upload.wikimedia.org/wikipedia/pt/4/45/Berserk_vol01.jpg" height=100 ><br>ベルセルク](https://mangaraw.co/ベルセルク-raw-free/)</ruby>
 <ruby>[<img src="https://images-na.ssl-images-amazon.com/images/I/917WFqQD1mL.jpg" height=100 ><br>ジョジョ](https://mangaraw.co/ジョジョの奇妙な冒険-part-07-steel-ball-run-raw-free/)</ruby>
 
+### [see more ](leomaor.github.io/manga)
+
 
 
 
