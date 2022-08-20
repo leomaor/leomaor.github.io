@@ -1,3 +1,4 @@
-test
+---
+layout: home
+---
 
-$e=mc^2$
