@@ -11,3 +11,5 @@ permalink: /reading/
 ### 🔮　[秘学　Occult](https://leomaor.github.io/occult)
 
 ### 🎎　[漫画　Manga](https://leomaor.github.io/manga)
+
+### 💬　[言語　Languages](https://leomaor.github.io/languages)
