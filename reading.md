@@ -5,7 +5,7 @@ permalink: /reading/
 ---
 
 
-### [Math](https://leomaor.github.io/math/)
+### 数学　Math
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41qQ8QHroVS._SY344_BO1,204,203,200_.jpg" height=100 >](https://libgen.is/book/index.php?md5=C692717FC61C8133BA008BE26AABB084)
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41JBIu2-JLL._SX398_BO1,204,203,200_.jpg" height=100 >](https://libgen.is/book/index.php?md5=EFA51226D14D0A95FB6F2BD8669499C5)
@@ -17,7 +17,11 @@ permalink: /reading/
 
 </details>
 
-### [Occult](https://leomaor.github.io/math/)
+### 漫画　Manga
+
+[<img src="https://m.media-amazon.com/images/I/914-pZTMQRL._AC_SY879_.jpg" height=100 >](http://library.lol/main/A9FF59B4AB929CCCFBBE130C7E3CD8CE)
+
+### 秘学　Occult
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51cVf4y0L-L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height=100 >](http://library.lol/main/A9FF59B4AB929CCCFBBE130C7E3CD8CE)
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51eC7EQq+sL._SX329_BO1,204,203,200_.jpg" height=100 >](https://libgen.is/book/index.php?md5=EA2B0638F4D4B89DC25FE766E0E3E5AE)
@@ -25,7 +29,5 @@ permalink: /reading/
 
 
 
-### [Manga](https://leomaor.github.io/math/)
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/51cVf4y0L-L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height=100 >](http://library.lol/main/A9FF59B4AB929CCCFBBE130C7E3CD8CE)
-[<img src="https://images-na.ssl-images-amazon.com/images/I/51eC7EQq+sL._SX329_BO1,204,203,200_.jpg" height=100 >](https://libgen.is/book/index.php?md5=EA2B0638F4D4B89DC25FE766E0E3E5AE)
+
