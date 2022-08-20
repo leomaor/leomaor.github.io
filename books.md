@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reading List
-permalink: /reading/
+title: Digital Library
+permalink: /books/
 ---
 🚧under construction🚧
 
@@ -12,4 +12,4 @@ permalink: /reading/
 
 ### 🎎　[漫画　Manga](https://leomaor.github.io/manga)
 
-### 🦜　[言語　Languages](https://leomaor.github.io/lang)
+### 🦜　[言語　Lingo](https://leomaor.github.io/lang)
