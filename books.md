@@ -7,16 +7,17 @@ permalink: /books/
 Reading list
 `🚧under construction🚧`   
 
-[<ruby>♾️`数学`<br>`Math  `</ruby>](#Math)　
-[<ruby>🔮`神秘`<br>`Occult`</ruby>](#Occult)　
-[<ruby>🎎`漫画`<br>`Manga `</ruby>](#Manga)　
-[<ruby>🦜`言語`<br>`Lingo `</ruby>](#Lingo)
-
 👇🏻Click 📕pics to 🔽download/read.
 
 [<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344751633i/967329.jpg" height=130 width=100>](https://cloudflare-ipfs.com/ipfs/bafykbzacedrenrixfa5c57r6he6kzw5vmad32pmsqcwc6c3izxmzcpzsm5fjc?filename=Garrity%20Math.pdf)
 [<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621441598i/56695140.jpg" height=130 width=100>](https://cloudflare-ipfs.com/ipfs/bafykbzaceafh7h3pys7iigiaovlmhk3hrd63amw6bdemwu3myk673skcggllu?filename=Agrippa%20Occult.pdf)
 [<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390170172i/18781405.jpg" height=130 width=100>](https://cloudflare-ipfs.com/ipfs/bafykbzacebyakf67srvcqxh2ne5ns3z5cjay4xcz3gclpgkk2mag3nj6yjakk?filename=Lancaster%20Quantum%20Gift.pdf)
+
+Categories:   
+[<ruby>♾️`数学`<br>`Math  `</ruby>](#Math)　
+[<ruby>🔮`神秘`<br>`Occult`</ruby>](#Occult)　
+[<ruby>🎎`漫画`<br>`Manga `</ruby>](#Manga)　
+[<ruby>🦜`言語`<br>`Lingo `</ruby>](#Lingo)
 
 
 ### <span id=Math>数学♾️Math</span>
