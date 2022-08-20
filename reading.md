@@ -28,8 +28,8 @@ permalink: /reading/
 
 ### 漫画　Manga
 <ruby>[<img src="https://m.media-amazon.com/images/I/914-pZTMQRL._AC_SY879_.jpg" height=100 ><br>呪術廻戦](https://mangaraw.co/chapters/【第84話】呪術廻戦-raw/)</ruby>
-<ruby>[<img src="https://static.wikia.nocookie.net/berserk/images/4/45/Manga_V27_Cover.png/revision/latest?cb=20170513173659" height=100 ><br>Berserk](mangaraw.co/chapters/【第133話】ベルセルク-raw/)</ruby>
-
+<ruby>[<img src="https://static.wikia.nocookie.net/berserk/images/4/45/Manga_V27_Cover.png/revision/latest?cb=20170513173659" height=100 ><br>Berserk](https://mangaraw.co/chapters/【第133話】ベルセルク-raw/)</ruby>
+<ruby>[<img src="https://images-na.ssl-images-amazon.com/images/I/917WFqQD1mL.jpg" height=100 ><br>ジョジョ](https://mangaraw.co/ジョジョの奇妙な冒険-part-07-steel-ball-run-raw-free/)</ruby>
 
 
 
