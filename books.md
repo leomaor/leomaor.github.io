@@ -33,9 +33,9 @@ Categories:
 
 [<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1339192336i/292079.jpg" height=130 width=100>](https://cloudflare-ipfs.com/ipfs/bafykbzacediqi6w4w5ve6lgmfs4peujenjig2ifuijgwln3ofdrmsw4wxnfio?filename=Rudin%20Analysis.pdf)
 
-##### Quantum Physics
-
+##### Quantum
 [<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531832677i/37953277.jpg" height=130 width=100>](https://cloudflare-ipfs.com/ipfs/bafykbzacebxsnmgi4tshxvu7vtgi76jsgrxn4vetszrka23jux2xnm4zbctdu?filename=Griffiths%20Quantum.pdf)
+[<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416181819i/5299445.jpg" height=130 width=100>](https://cloudflare-ipfs.com/ipfs/bafykbzacebzqmupawkyxufi3m4lvn3oa2tthmzgnab6jvhu45wgi2yi66fbka?filename=Yanofsky%20Quantum%20Comp.pdf)
 [<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390170172i/18781405.jpg" height=130 width=100>](https://cloudflare-ipfs.com/ipfs/bafykbzacebyakf67srvcqxh2ne5ns3z5cjay4xcz3gclpgkk2mag3nj6yjakk?filename=Lancaster%20Quantum%20Gift.pdf)
 
 #### <span id=Occult>神秘🔮Occult</span>
