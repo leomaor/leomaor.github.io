@@ -7,8 +7,10 @@ permalink: /books/
 Reading list
 `🚧under construction🚧`   
 
-[<ruby>数学♾️ `Math  `</ruby>](#Math)　　[<ruby>秘学🔮 `Occult`</ruby>](#Occult)   
-[<ruby>漫画🎎 `Manga `</ruby>](#Manga)　　[<ruby>言語🦜 `Lingo `</ruby>](#Lingo)
+[<ruby>数学♾️<br>`Math  `</ruby>](#Math)　
+[<ruby>秘学🔮<br>`Occult`</ruby>](#Occult)　
+[<ruby>漫画🎎<br>`Manga `</ruby>](#Manga)　
+[<ruby>言語🦜<br>`Lingo `</ruby>](#Lingo)
 
 👇🏻Click 📕images to 🔽Download from 📚[LibGen](https://libgen.is/) via ☁️CloudFlare.
 
