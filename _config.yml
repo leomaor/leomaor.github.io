@@ -1,4 +1,4 @@
 markdown: kramdown
 remote_theme: leomaor/minima
 
-github-theme: minimal
+theme: minima
