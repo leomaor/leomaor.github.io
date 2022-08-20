@@ -21,7 +21,7 @@ permalink: /reading/
 </details>
 
 ### 漫画　Manga
-<ruby>[<img src="https://m.media-amazon.com/images/I/914-pZTMQRL._AC_SY879_.jpg" height=100 >](http://library.lol/main/A9FF59B4AB929CCCFBBE130C7E3CD8CE)<br>呪術廻戦</ruby>
+<ruby>[<img src="https://m.media-amazon.com/images/I/914-pZTMQRL._AC_SY879_.jpg" height=100 ><br>呪術廻戦](https://mangaraw.co/chapters/【第84話】呪術廻戦-raw/)</ruby>
 
 ### 秘学　Occult
 
