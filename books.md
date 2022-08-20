@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Digital Library
+subtitle: Reading list
 permalink: /books/
 ---
 Reading list
 
+Cathegories:
 [<ruby>♾️数学<br>　Math</ruby>](#Math)　[<ruby>🔮秘学<br>　Occult</ruby>](#Occult)　[<ruby>🎎漫画<br>　Manga</ruby>](#Manga)　[<ruby>🦜言語<br>　Lingo</ruby>](#Lingo)
 
 `🚧under construction🚧`   
