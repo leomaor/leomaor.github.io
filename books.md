@@ -4,8 +4,7 @@ title: Digital Library
 permalink: /books/
 ---
 
-My Reading list
-
+　
 [<ruby>♾️数学<br>　Math</ruby>](#Math)　[<ruby>🔮秘学<br>　Occult</ruby>](#Occult)　[<ruby>🎎漫画<br>　Manga</ruby>](#Manga)　[<ruby>🦜言語<br>　Lingo</ruby>](#Lingo)
 
 `🚧under construction🚧`   
