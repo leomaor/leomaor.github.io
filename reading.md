@@ -12,4 +12,4 @@ permalink: /reading/
 
 ### 🎎　[漫画　Manga](https://leomaor.github.io/manga)
 
-### 💬　[言語　Languages](https://leomaor.github.io/languages)
+### 🦜　[言語　Languages](https://leomaor.github.io/languages)
