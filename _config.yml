@@ -1,2 +1,4 @@
 markdown: kramdown
 remote_theme: leomaor/minima
+
+theme: jekyll-theme-cayman
