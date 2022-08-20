@@ -12,7 +12,7 @@ Reading list
 [<ruby>🎎`漫画`<br>`Manga `</ruby>](#Manga)　
 [<ruby>🦜`言語`<br>`Lingo `</ruby>](#Lingo)
 
-👇🏻Click 📕images to 🔽Download from 📚[LibGen](https://libgen.is/) via ☁️CloudFlare.
+👇🏻Click 📕pics to 🔽Download via 📚[LibGen](https://libgen.is/) / ☁️CloudFlare.
 
 [![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339192336l/292079._SX98_.jpg)](https://cloudflare-ipfs.com/ipfs/bafykbzacediqi6w4w5ve6lgmfs4peujenjig2ifuijgwln3ofdrmsw4wxnfio?filename=Rudin%20Analysis.pdf)
 [![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390170172l/18781405._SX98_.jpg)](https://cloudflare-ipfs.com/ipfs/bafykbzacebyakf67srvcqxh2ne5ns3z5cjay4xcz3gclpgkk2mag3nj6yjakk?filename=Lancaster%20Quantum%20Gift.pdf)
